@@ -1,0 +1,1 @@
+print('Anton Smovzhenko, IPZ_Group_1')
